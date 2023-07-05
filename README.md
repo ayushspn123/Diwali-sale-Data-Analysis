@@ -50,7 +50,7 @@ The repository is structured as follows:
 
 To run the analysis and reproduce the results:
 
-1. Clone this repository to your local machine or download the ZIP file.
+1. Clone this repository to your local machine or download the ZIP file.  
 
 2. Install the required dependencies by running `pip install -r requirements.txt` in your command line or terminal.
 
@@ -58,20 +58,20 @@ To run the analysis and reproduce the results:
 
 4. Follow the instructions and code provided in the notebook to execute the analysis step-by-step.
 
-5. Make sure the `diwali_sale_data.csv` file is placed in the `data/` directory before running the notebook.
+5. Make sure the `diwali_sale_data.csv` file is placed in the `data/` directory before running the notebook.   
 
 6. Feel free to modify the code or experiment with different techniques to further enhance the analysis.
 
 ## Conclusion
 
 This data analysis project provides a comprehensive understanding of Diwali sale data using Python and various data analytics tools. By following the instructions, you can reproduce the analysis, explore the dataset, and gain valuable insights to improve sales performance during the Diwali season.
-
-For any questions or feedback, please feel free to reach out.
+ 
+For any questions or feedback, please feel free to reach out.   
 
 Happy analyzing!
 
 ## Screenshots
-- Important Insights  from data--![Screenshot (225)](https://github.com/ayushspn123/Diwali-sale-Data-Analysis/assets/78543116/3dd874e9-5581-4b03-a1e9-e0652bbf50c0)
+- Important Insights  from data-- ![Screenshot (225)](https://github.com/ayushspn123/Diwali-sale-Data-Analysis/assets/78543116/3dd874e9-5581-4b03-a1e9-e0652bbf50c0)
 
  ![Screenshot (226)](https://github.com/ayushspn123/Diwali-sale-Data-Analysis/assets/78543116/24fb24fe-ec9c-40ec-bcbf-4e49f78fea71)
 
